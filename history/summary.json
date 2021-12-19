@@ -2,7 +2,7 @@
   {
     "name": "LCCX",
     "url": "https://lc.cx",
-    "icon": "https://favicons.githubusercontent.com/lc.cx",
+    "icon": "https://lc.cx/sites/all/themes/lccx/favicon.ico",
     "slug": "lccx",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1459,
-    "timeDay": 1459,
-    "timeWeek": 1459,
-    "timeMonth": 1459,
-    "timeYear": 1459,
+    "time": 1469,
+    "timeDay": 1469,
+    "timeWeek": 1469,
+    "timeMonth": 1469,
+    "timeYear": 1469,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Status",
+    "url": "$STATUS_SECRET",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "status",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
