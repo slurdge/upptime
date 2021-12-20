@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://slurdge.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [slurdge](https://www.slurdge.org), powered by [Upptime](https://github.com/upptime/upptime).
 
