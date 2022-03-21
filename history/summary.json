@@ -22,17 +22,17 @@
     "url": "$STATUS_SECRET",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "status",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 871,
-    "timeWeek": 727,
-    "timeMonth": 778,
-    "timeYear": 776,
+    "time": 774,
+    "timeDay": 750,
+    "timeWeek": 713,
+    "timeMonth": 773,
+    "timeYear": 774,
     "dailyMinutesDown": {}
   }
 ]
