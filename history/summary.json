@@ -22,17 +22,17 @@
     "url": "$STATUS_SECRET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 909,
-    "timeWeek": 893,
-    "timeMonth": 931,
-    "timeYear": 950,
+    "time": 927,
+    "timeDay": 897,
+    "timeWeek": 892,
+    "timeMonth": 930,
+    "timeYear": 949,
     "dailyMinutesDown": {}
   }
 ]
