@@ -4,9 +4,9 @@
     "url": "https://lc.cx",
     "icon": "https://lc.cx/sites/all/themes/lccx/favicon.ico",
     "slug": "lccx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 844,
     "timeMonth": 927,
     "timeYear": 1281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-15": 0
+    }
   },
   {
     "name": "Status",
@@ -24,7 +26,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 908,
     "timeMonth": 920,
     "timeYear": 964,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-15": 0
+    }
   }
 ]
