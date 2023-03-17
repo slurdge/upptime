@@ -6,15 +6,15 @@
     "slug": "lccx",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1303,
-    "timeDay": 1015,
-    "timeWeek": 902,
-    "timeMonth": 940,
-    "timeYear": 1279,
+    "time": 1302,
+    "timeDay": 933,
+    "timeWeek": 882,
+    "timeMonth": 946,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2023-03-15": 16
     }
@@ -26,15 +26,15 @@
     "slug": "status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 929,
-    "timeDay": 834,
-    "timeWeek": 886,
-    "timeMonth": 908,
-    "timeYear": 964,
+    "timeDay": 944,
+    "timeWeek": 843,
+    "timeMonth": 902,
+    "timeYear": 966,
     "dailyMinutesDown": {
       "2023-03-15": 16
     }
