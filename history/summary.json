@@ -24,7 +24,7 @@
     "url": "$STATUS_SECRET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 1083,
     "timeYear": 1001,
     "dailyMinutesDown": {
+      "2023-07-04": 0,
       "2023-03-31": 19,
       "2023-03-15": 16
     }
