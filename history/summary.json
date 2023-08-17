@@ -25,7 +25,7 @@
     "url": "$STATUS_SECRET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "96.01%",
     "uptimeWeek": "98.50%",
