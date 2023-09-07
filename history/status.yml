@@ -1,7 +1,7 @@
 url: $STATUS_SECRET
-status: down
-code: 502
-responseTime: 943
-lastUpdated: 2023-09-07T15:42:56.498Z
+status: up
+code: 200
+responseTime: 1609
+lastUpdated: 2023-09-07T16:50:50.558Z
 startTime: 2021-12-19T21:58:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
