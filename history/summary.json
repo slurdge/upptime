@@ -6,14 +6,14 @@
     "slug": "lccx",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 1439,
-    "timeDay": 896,
-    "timeWeek": 1412,
-    "timeMonth": 1316,
+    "timeDay": 855,
+    "timeWeek": 1232,
+    "timeMonth": 1310,
     "timeYear": 1438,
     "dailyMinutesDown": {
       "2024-12-09": 22,
@@ -25,8 +25,7 @@
       "2023-12-31": 17,
       "2023-12-25": 105,
       "2023-12-23": 17,
-      "2023-12-13": 51,
-      "2023-12-12": 5
+      "2023-12-13": 51
     }
   },
   {
@@ -36,14 +35,14 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "98.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.32%",
-    "time": 1144,
-    "timeDay": 885,
-    "timeWeek": 1061,
-    "timeMonth": 1044,
+    "time": 1143,
+    "timeDay": 688,
+    "timeWeek": 1002,
+    "timeMonth": 1034,
     "timeYear": 1149,
     "dailyMinutesDown": {
       "2024-12-09": 22,
@@ -64,8 +63,7 @@
       "2023-12-31": 17,
       "2023-12-25": 105,
       "2023-12-23": 17,
-      "2023-12-13": 51,
-      "2023-12-12": 5
+      "2023-12-13": 51
     }
   }
 ]
