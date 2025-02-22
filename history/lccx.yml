@@ -1,7 +1,7 @@
 url: https://lc.cx
-status: up
-code: 200
-responseTime: 1389
-lastUpdated: 2025-02-21T23:08:43.734Z
+status: down
+code: 405
+responseTime: 462
+lastUpdated: 2025-02-22T02:55:32.033Z
 startTime: 2021-12-19T21:35:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
